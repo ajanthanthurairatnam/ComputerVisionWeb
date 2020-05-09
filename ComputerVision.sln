@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComputerVisionConsole", "ComputerVisionQuickStart\ComputerVisionConsole.csproj", "{7536551A-915A-4947-89E9-513FD90E09BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComputerVisionWeb", "ComputerVisionWeb\ComputerVisionWeb.csproj", "{1D405870-5D7C-41AA-B507-519AF6C3FE91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7536551A-915A-4947-89E9-513FD90E09BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7536551A-915A-4947-89E9-513FD90E09BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7536551A-915A-4947-89E9-513FD90E09BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7536551A-915A-4947-89E9-513FD90E09BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D405870-5D7C-41AA-B507-519AF6C3FE91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D405870-5D7C-41AA-B507-519AF6C3FE91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D405870-5D7C-41AA-B507-519AF6C3FE91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D405870-5D7C-41AA-B507-519AF6C3FE91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56A6F2B3-8C1B-454F-99A2-19CF6AF5B9F5}
+	EndGlobalSection
+EndGlobal
